@@ -1,2 +1,3 @@
 # DCGAN
-mraunak/DCGAN
+
+Deep Convolutional Generative Adversarial Network
